@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(241, 224, 224);
+    border: 2px;
+    min-height: 100vh;
+    margin: 0 4rem 0 4rem;
+    }
+div{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-inline: 3rem;
+    color: rgb(7, 9, 14);
+ }
+ p{
+     padding: 1rem;
+ }
+h3, h4{
+    text-align: center;
+}
